@@ -45,7 +45,9 @@
 ### **Improving Efficiency through Optimized Stockage Management** *(Tableau, Python, Excel)*  
 - Analyzed inventory data from over 40,000 SKUs to identify trends and optimize space utilization using Python.  
 - Categorized SKUs into fast (24%), normal (38%), and slow-moving (38%) items using Tableau visualizations.  
-- Provided strategic recommendations to improve inventory turnover rates and optimize storage efficiency.  
+- Provided strategic recommendations to improve inventory turnover rates and optimize storage efficiency.
+
+### **[Milk Production](https://github.com/rajpatil05/rajpatil05.github.io/Projects)
 
 ---
 
