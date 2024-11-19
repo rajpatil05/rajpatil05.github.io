@@ -1,4 +1,3 @@
-# rajpatil05.github.io
 # Raj Abhijeet Patil
 📞 +1 (314) 450-6109  | 📧 [patilraaj07@gmail.com](mailto:patilraaj07@gmail.com) | 🌐 [LinkedIn](http://www.linkedin.com/in/raj-patil-48871a21a)
 
