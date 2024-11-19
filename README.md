@@ -47,7 +47,7 @@
 - Categorized SKUs into fast (24%), normal (38%), and slow-moving (38%) items using Tableau visualizations.  
 - Provided strategic recommendations to improve inventory turnover rates and optimize storage efficiency.
 
-### **[Milk Production](https://github.io/rajpatil05/Projects)**
+### **[Milk Production](https://rajpatil05.github.io/Projects/)**
 
 ---
 
